@@ -61,3 +61,18 @@ nav {
 .nav-link:hover {
     color: #22c55e; /* Turns green when you hover over it! */
 }
+
+.skills-section {
+    text-align: left;
+    background: #1e293b;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+.skills-section h3 {
+    color: #22c55e; /* A nice green color */
+    margin-top: 0;
+}
+.skills-section ul {
+    list-style: "🚀 "; /* Uses a rocket as the bullet point! */
+}
