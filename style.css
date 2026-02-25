@@ -41,3 +41,23 @@ nav {
 .nav-link:hover {
     text-decoration: underline;
 }
+
+nav {
+    background: #1e293b;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 2rem;
+    border: 1px solid #334155;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #38bdf8;
+    font-weight: bold;
+    margin: 0 15px;
+    transition: color 0.3s;
+}
+
+.nav-link:hover {
+    color: #22c55e; /* Turns green when you hover over it! */
+}
