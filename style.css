@@ -76,3 +76,25 @@ nav {
 .skills-section ul {
     list-style: "🚀 "; /* Uses a rocket as the bullet point! */
 }
+
+.contact-section {
+    margin-top: 30px;
+    padding: 20px;
+    border-top: 1px solid #334155;
+    text-align: center;
+}
+
+.contact-btn {
+    display: inline-block;
+    background-color: #38bdf8;
+    color: #0f172a;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s;
+}
+
+.contact-btn:hover {
+    background-color: #22c55e;
+}
